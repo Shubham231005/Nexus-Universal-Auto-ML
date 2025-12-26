@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+ydata-profiling
+streamlit-pandas-profiling
+huggingface_hub
+matplotlib
+seaborn
+openpyxl
+lxml
+pyarrow
+xgboost
+plotly
